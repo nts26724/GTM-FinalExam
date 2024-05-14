@@ -1,0 +1,7 @@
+ftp
+name: telephonehcm
+pass: 123
+
+dns mail: *tenphongban*
+pass: 123
+
